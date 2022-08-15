@@ -3,7 +3,7 @@
 pragma solidity 0.8.0;
 
 contract MyCrypto {
-    string public NAME ="RAM03";
+    string public NAME ="RAMS";
     string public SYMBOL = "RM";
     uint private __totalsupply= 1000;
 
